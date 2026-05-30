@@ -1,6 +1,7 @@
 # MindaVault Video Storage
 
-Canonical **published** site: [eyyminda.github.io/MindaVault-Video-Storage-Legal](https://eyyminda.github.io/MindaVault-Video-Storage-Legal/)
+Canonical **published** site:
+[eyyminda.github.io/MindaVault-Video-Storage-Legal](https://eyyminda.github.io/MindaVault-Video-Storage-Legal/)
 
 - [Privacy policy (live)](https://eyyminda.github.io/MindaVault-Video-Storage-Legal/privacy-policy)
 
